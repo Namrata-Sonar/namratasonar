@@ -584,7 +584,7 @@ a {
     text-decoration: none;
     color: #eabe7b;
     padding: 10px 30px;
-    margin-left: 6rem;
+    margin-left: 6.4rem;
     position: absolute;
 
     font-size: 12px;
@@ -598,7 +598,7 @@ a {
     float: right;
     margin-top: -200px;
     font-size: 12px;
-    margin-left: 90px;
+    margin-left: 7rem;
   }
   .vl {
     border-left: 2px solid rgb(255, 255, 255);
@@ -645,11 +645,11 @@ a {
   }
   .para2 {
     color: white;
-    font-size: 12px;
-    margin-left: 4rem;
-    text-align: center;
-    width: 200px;
-    margin-top: 14px;
+        font-size: 12px;
+        margin-left: 2.8rem;
+        text-align: center;
+        width: 15rem;
+
   }
 
   .abt1 {
@@ -862,7 +862,7 @@ a {
     font-family: "Epstonik Regular";
   }
   .container5 {
-    margin-top: 150px;
+    margin-top: 14rem;
     margin-left: 20px;
   }
   .hr1 {
@@ -875,6 +875,7 @@ a {
     width: 100px;
     height: 100px;
     margin-left: 6rem;
+    margin-top: 3rem;
   }
 
   .prj1 {
@@ -882,7 +883,7 @@ a {
     margin-top: -6px;
     color: white;
     font-size: 20px;
-    margin-left: -14.3rem;
+    margin-left: -13.3rem;
     text-align: center;
   }
   .site1 {
@@ -957,7 +958,7 @@ a {
 
       .copyright {
         color: #2c2c2d;
-        margin-left: 1%;
+        margin-left: 0.7rem;
         display: flex
 ;
         font-size: 10px;
@@ -967,7 +968,7 @@ a {
 
     .copy-icon {
   margin-left: px;
-  margin-top: 0.01rem;
+  margin-top: 0.001rem;
 }
   .button {
     display: none;
